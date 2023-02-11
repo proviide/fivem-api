@@ -5,7 +5,7 @@
 └──────────────────────────────────────────┘*/
 
 const { Server } = require("@proviide/fivem-api");
-const server = new Server("23.134.90.14:30120");
+const server = new Server("IP:PORT");
 
 async function getInfo() {
   server.getInfo().then(data => { console.log(data); });
