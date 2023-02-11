@@ -7,3 +7,31 @@
 
 ```
 A light-weight NodeJS package that interacts with the FiveM API to retrieve server information.
+
+Quick Start - Node.js
+-------------------------
+
+Install:
+
+```sh
+npm install @proviide/fivem-api
+```
+
+Simple usage:
+```js
+/*
+┌──────────────────────────────────────────┐
+│       https://github.com/proviide        │
+│           All rights reserved            │
+└──────────────────────────────────────────┘*/
+
+const { Server } = require("../index.js");
+const server = new Server("IP:PORT");
+
+async function getInfo() {
+  server.getInfo().then(data => { console.log(data); });
+  server.getPlayers().then(data => { console.log(data); });
+}
+
+getInfo();
+```
