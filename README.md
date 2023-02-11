@@ -29,3 +29,11 @@ async function getInfo() {
 
 getInfo();
 ```
+-------------------------
+## Upcoming updates
+* SOON
+* SOON
+* SOON
+-------------------------
+## Release History
+* 2023.2.11 Release date.
