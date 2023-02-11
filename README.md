@@ -19,12 +19,6 @@ npm install @proviide/fivem-api
 
 Simple usage:
 ```js
-/*
-┌──────────────────────────────────────────┐
-│       https://github.com/proviide        │
-│           All rights reserved            │
-└──────────────────────────────────────────┘*/
-
 const { Server } = require("../index.js");
 const server = new Server("IP:PORT");
 
