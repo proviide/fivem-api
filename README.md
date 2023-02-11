@@ -19,7 +19,7 @@ npm install @proviide/fivem-api
 
 Simple usage:
 ```js
-const { Server } = require("../index.js");
+const { Server } = require("@proviide/fivem-api");
 const server = new Server("IP:PORT");
 
 async function getInfo() {
