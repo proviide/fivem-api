@@ -1,0 +1,22 @@
+{
+  "name": "@proviide/fivem-api",
+  "version": "1.0.5",
+  "description": "A light-weight package that interacts with the FiveM API.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/proviide/fivem-api"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Provide#5793 | All rights reserved.",
+  "license": "ISC",
+  "dependencies": {
+    "@proviide/fivem-api": "^1.0.4",
+    "request": "^2.88.2"
+  }
+}
