@@ -29,3 +29,7 @@ async function getInfo() {
 
 getInfo();
 ```
+
+## Contributing
+
+If you are interested in contributing to FiveM API, please feel free to submit a pull request on the [GitHub repository](https://github.com/proviide/fivem-api).
