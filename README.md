@@ -7,6 +7,7 @@
 
 ```
 [![NPM Downloads](https://img.shields.io/npm/dt/@proviide/fivem-api.svg?style=flat)](https://npmcharts.com/compare/@proviide/fivem-api?minimal=true)
+
 A light-weight NodeJS package that interacts with the FiveM API to retrieve server information.
 
 Quick Start - Node.js
