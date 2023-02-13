@@ -6,6 +6,7 @@
 /_/   /___/  |___/_____/_/  /_/  /_/  |_/_/   /___/  
 
 ```
+[![NPM Downloads](https://img.shields.io/npm/dt/figlet.svg?style=flat)](https://npmcharts.com/compare/@proviide/fivem-api?minimal=true)
 A light-weight NodeJS package that interacts with the FiveM API to retrieve server information.
 
 Quick Start - Node.js
